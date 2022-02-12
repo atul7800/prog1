@@ -1,0 +1,49 @@
+.name
+{
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(172, 30, 172);
+text-align: center;
+text-decoration: underline;
+text-shadow: 10px;
+}
+
+.address
+{
+font-size: 20px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: rgb(70, 11, 70);
+text-align: center;
+text-decoration: underline;
+text-shadow: 10px;
+}
+
+.age
+{
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(63, 16, 63);
+text-align: center;
+text-decoration: underline;
+text-shadow: 10px;
+}
+
+.link
+{
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(66, 33, 66);
+text-align: center;
+text-decoration: underline;
+text-shadow: 10px;
+}
+
+.phoneno
+{
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: purple;
+text-align: center;
+text-decoration: underline;
+text-shadow: 10px;
+}
